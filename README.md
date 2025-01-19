@@ -6,16 +6,14 @@
 - 🔭 I’m working on various projects that span across different domains.
 - 👯 I’m looking to collaborate on open-source projects.
 - 💬 Ask me about anything related to programming, I'm always happy to help!
-- 📫 How to reach me: [Your Email](mailto:your.email@example.com)
+- 📫 How to reach me: [Email](oficialyagya26@gmail.com)
 - ⚡ Fun fact: I love solving puzzles and playing chess.
 
 ## Skills
 
-- **Programming Languages:** Python, JavaScript, Java, C++
-- **Web Development:** HTML, CSS, React, Node.js
-- **Databases:** MySQL, MongoDB
-- **Tools & Technologies:** Git, Docker, Kubernetes
-- **Cloud Platforms:** AWS, Azure, Google Cloud
+- **Programming Languages:** Python,Java, C++
+- **Web Development:** HTML, CSS, JS
+- **Tools & Technologies:** Git
 
 ## GitHub Stats
 
@@ -27,6 +25,6 @@
 
 ## Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
-- [Twitter](https://twitter.com/your-profile)
-- [Personal Website](https://yourwebsite.com)
+- [LinkedIn](https://www.linkedin.com/in/yagya-sapkota-90a4b330b/)
+- [Twitter](https://x.com/dipeshsapkota26)
+- [Personal Website]()
